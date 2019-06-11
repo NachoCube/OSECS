@@ -7,8 +7,8 @@ Features:
 
  ∆ Stripe And PayPal Payment intergration.
  ∆ ETC         
-                     ⌾Sorry im really terrible at UI⌾ 
-☢︎(But if You Want to help out just <a href="https://instagram.com/levi.codes">DM me</a> 😄) ☢︎
+
+⌾Sorry im really terrible at UI⌾ ☢︎(But if You Want to help out just <a href="https://instagram.com/levi.codes">DM me</a> 😄) ☢︎
 <img src="dashboard.png" width="50%" height="70%" style="border:2px solid black;">
 
 
