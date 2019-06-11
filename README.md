@@ -6,11 +6,9 @@ OSECS is a super easy e-commerce Platform based on PHP and can be used on any•
 Features:
 
  ∆ Stripe And PayPal Payment intergration.
- ∆ ETC
-            ★           ★
-             ♦︎UI design♦︎    
-            
-⌾Sorry im really terrible at UI⌾ ☢︎(But if You Want to help out just <a href="https://instagram.com/levi.codes">DM me</a> 😄) ☢︎
+ ∆ ETC         
+                     ⌾Sorry im really terrible at UI⌾ 
+☢︎(But if You Want to help out just <a href="https://instagram.com/levi.codes">DM me</a> 😄) ☢︎
 <img src="dashboard.png" width="50%" height="70%" style="border:2px solid black;">
 
 
