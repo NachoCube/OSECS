@@ -3,7 +3,7 @@ The O.S.E.C.S (Open Source E-Commerce System)
 
 OSECS is a super easy e-commerce Platform based on PHP and can be used on any• web hosting!
 
-<img src="dashboard.png" width="30%" height="50%" style="border:2px solid black;">
+<img src="dashboard.png" width="50%" height="70%" style="border:2px solid black;">
 
 
 
